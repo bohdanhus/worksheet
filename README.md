@@ -1,6 +1,4 @@
-# CSV
-To create a new csv file in the specified format, replace the path in the app.js file
-Назначение библиотеки (проекта, инструмента, фреймворка)
-Системные требования (версия языка, требования к ресурсам, системные зависимости, нужные расширения)
-Шаги по установке, сборке, запуску
-Примеры использования или ссылки на документацию
+# CSV read->transform->write
+
+My solution to the task for Intership
+To create a new csv file in the specified format, replace the path in the main.js file
