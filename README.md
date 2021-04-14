@@ -1,4 +1,4 @@
-# CSV-mixer/ my first program reads the csv file and generates a new collapsed csv file based on the input file.
+# CSV-mixer/ my first program generates a new collapsed csv file based on the input file.
 
 
 My solution to the task for Intership
