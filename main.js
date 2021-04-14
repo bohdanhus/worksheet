@@ -21,6 +21,7 @@ const A = data// Сортировка дат.
   }, [])
   .sort();
 
+// Разбор данных для сопоставления
 const employees = data.reduce((a, v) => {
   const name = v[columnName].trim().replace(/\s+/g, " ");
   const date = new Date(v[columnDate]).valueOf();
